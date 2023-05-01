@@ -3,5 +3,9 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    
+}
+
+.content {
+    margin: auto;
+    position: absolute;
 }
